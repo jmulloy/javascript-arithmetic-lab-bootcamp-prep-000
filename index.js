@@ -20,10 +20,4 @@ function dec(n) {
 }
 function makeInt(a, b) {
   return (parseInt)
-  }
-var c=2.22222
-function makeInt(c, b){
-  return (parseInt)
-}
-
 }
