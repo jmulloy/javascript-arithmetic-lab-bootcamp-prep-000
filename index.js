@@ -19,5 +19,5 @@ function dec(n) {
   return --n
 }
 function makeInt(a) {
-  return parseFloat(a)
+  return parseInt(a)
 }
