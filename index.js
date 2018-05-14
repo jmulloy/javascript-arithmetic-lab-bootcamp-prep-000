@@ -1,17 +1,17 @@
-var a=1, b=80
+
 function add(a, b) {
-  return (a+b)
+  return a+b
 }
-function subtract(b, a) {
-  return (b-a)
+function subtract(a, b) {
+  return a-b
 }
 function multiply(a, b) {
-  return (a*b)
+  return a*b
 }
-function divide(b, a) {
-  return(b/a)
+function divide (a, b) {
+  return a/b
 }
-var number = 5 
+
 function inc(n) {
   return ++n
 }
