@@ -18,6 +18,6 @@ function inc(n) {
 function dec(n) {
   return --n
 }
-function makeInt('80.123999') {
-  return parseFloat
+function makeInt(a) {
+  return parseFloat(a, 10)
 }
